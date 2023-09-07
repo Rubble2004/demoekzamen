@@ -6,10 +6,10 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 3 - 10 ,4- 20, 5- 30
 1. Диаграммы
    При выполнении данного модуля 1 ставятся следующие задачи:
-1. Изучить описание предметной области : https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/0%20WorldSkills/1_Use%20Case/Описание%20ПО.docx(тур агенство),
-https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/2%20задание%20Глазки-Save/Общие%20ресурсы/Введение%20ПО_G.pdf(глази save)
-https://github.com/Julia-Zhirnova/Demoekzamen/tree/main/7%20задание%202022/09_1.2-2022_8(свияжские холмы)
-https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/9%20задание%202023/КОД%201.1%202023-2025%20ВАРИАНТ%203.rar(2023 год задания"ООО РУЛЬ")
+1.<br> Изучить описание предметной области : https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/0%20WorldSkills/1_Use%20Case/Описание%20ПО.docx</br>  (тур агенство),
+<br>https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/2%20задание%20Глазки-Save/Общие%20ресурсы/Введение%20ПО_G.pdf </br>   (глази save)
+<br>https://github.com/Julia-Zhirnova/Demoekzamen/tree/main/7%20задание%202022/09_1.2-2022_8    (свияжские холмы)</br>
+<br>https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/9%20задание%202023/КОД%201.1%202023-2025%20ВАРИАНТ%203.rar(2023 год задания"ООО РУЛЬ")</br>
 2 Определить функциональные требования к системе.
 3 Разработать диаграмму вариантов использования системы.
 4 Разработать ER-диаграмму.
