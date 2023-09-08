@@ -13,4 +13,10 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 2 Определить функциональные требования к системе.
 3 Разработать диаграмму вариантов использования системы.
 4 Разработать ER-диаграмму.
-   
+
+
+
+
+   Скрин установлки visual studio 2019:
+   ![image](https://github.com/Rubble2004/demoekzamen/assets/97594420/8c343438-e98a-4ca5-9f30-38c20bf76284)
+
