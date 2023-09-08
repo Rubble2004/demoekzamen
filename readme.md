@@ -18,5 +18,6 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 
 
    Скрин установлки visual studio 2019:
-   ![image](https://github.com/Rubble2004/demoekzamen/assets/97594420/8c343438-e98a-4ca5-9f30-38c20bf76284)
+  ![image](https://github.com/Rubble2004/demoekzamen/assets/97594420/fafe6222-05e4-474a-81ab-016bb313cb42)
+
 
