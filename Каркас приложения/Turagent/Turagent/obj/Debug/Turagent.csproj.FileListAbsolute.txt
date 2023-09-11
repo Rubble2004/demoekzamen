@@ -1,0 +1,16 @@
+D:\Rubble\demoekzamen\Каркас приложения\Turagent\Turagent\obj\Debug\Turagent.csproj.AssemblyReference.cache
+D:\Rubble\demoekzamen\Каркас приложения\Turagent\Turagent\obj\Debug\Turagent.csproj.SuggestedBindingRedirects.cache
+D:\Rubble\demoekzamen\Каркас приложения\Turagent\Turagent\obj\Debug\MainWindow.g.cs
+D:\Rubble\demoekzamen\Каркас приложения\Turagent\Turagent\obj\Debug\App.g.cs
+D:\Rubble\demoekzamen\Каркас приложения\Turagent\Turagent\obj\Debug\Turagent_MarkupCompile.cache
+D:\Rubble\demoekzamen\Каркас приложения\Turagent\Turagent\obj\Debug\Turagent_MarkupCompile.lref
+D:\Rubble\demoekzamen\Каркас приложения\Turagent\Turagent\bin\Debug\Turagent.exe.config
+D:\Rubble\demoekzamen\Каркас приложения\Turagent\Turagent\bin\Debug\Turagent.exe
+D:\Rubble\demoekzamen\Каркас приложения\Turagent\Turagent\bin\Debug\Turagent.pdb
+D:\Rubble\demoekzamen\Каркас приложения\Turagent\Turagent\obj\Debug\MainWindow.baml
+D:\Rubble\demoekzamen\Каркас приложения\Turagent\Turagent\obj\Debug\Turagent.g.resources
+D:\Rubble\demoekzamen\Каркас приложения\Turagent\Turagent\obj\Debug\Turagent.Properties.Resources.resources
+D:\Rubble\demoekzamen\Каркас приложения\Turagent\Turagent\obj\Debug\Turagent.csproj.GenerateResource.cache
+D:\Rubble\demoekzamen\Каркас приложения\Turagent\Turagent\obj\Debug\Turagent.csproj.CoreCompileInputs.cache
+D:\Rubble\demoekzamen\Каркас приложения\Turagent\Turagent\obj\Debug\Turagent.exe
+D:\Rubble\demoekzamen\Каркас приложения\Turagent\Turagent\obj\Debug\Turagent.pdb
