@@ -17,20 +17,20 @@ using Turagent.Class;
 namespace Turagent
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для Admin.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Admin : Page
     {
-        public MainWindow()
+        public Admin()
         {
             InitializeComponent();
-            MainFrame.Navigate(new Autorizacia());
-            Manager.MainFrame = MainFrame;
+
+        } 
+
+        
+private void Back(object sender, RoutedEventArgs e)
+        {
+            Manager.MainFrame.Navigate(new Autorizacia());
         }
-
-        
-        
-
-        
     }
 }

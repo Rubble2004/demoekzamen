@@ -17,20 +17,25 @@ using Turagent.Class;
 namespace Turagent
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для Autorizacia.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Autorizacia : Page
     {
-        public MainWindow()
+        public Autorizacia()
         {
             InitializeComponent();
-            MainFrame.Navigate(new Autorizacia());
-            Manager.MainFrame = MainFrame;
         }
 
-        
-        
-
-        
+        private void Enter(object sender, RoutedEventArgs e)
+        {
+            if (Login.Text == "root" && Password.Text == "12345")
+            {
+                Manager.MainFrame.Navigate(new Admin());
+            }
+            if (Login.Text == "user" && Password.Text == "12345")
+            {
+                Manager.MainFrame.Navigate(new User());
+            }
+        }
     }
 }

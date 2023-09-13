@@ -9,7 +9,7 @@
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="auto" ></RowDefinition>
-
+            <RowDefinition Height="*" ></RowDefinition>
         </Grid.RowDefinitions>
 
         <Border Background="#FFE8C57B" Grid.ColumnSpan="2"/>
@@ -23,8 +23,11 @@
             Туристическое агенство</TextBlock>
             <Image Stretch ="Uniform" MaxHeight="112" MaxWidth="110" Source="logo.png"/>
 
-            <Button Click="Back_Click" Height="50" Background="#FF9AF08C" Foreground="#FFC54EE0" Margin="40 0 0 0">Авторизация</Button>
+           
         </StackPanel>
+        <Frame Grid.Row="1" Name="MainFrame">
+            
+        </Frame>
 
     </Grid>
 </Window>

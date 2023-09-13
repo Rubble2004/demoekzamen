@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Rubble\demoekzamen\Каркас приложения\Turagent\Turagent\obj\Debug\
+D:\205\demoekzamen\Каркас приложения\Turagent\Turagent\obj\Debug\
 Turagent
 none
 false
 DEBUG;TRACE
-D:\Rubble\demoekzamen\Каркас приложения\Turagent\Turagent\App.xaml
-1219584333
+D:\205\demoekzamen\Каркас приложения\Turagent\Turagent\App.xaml
+4-1750073823
 
-51579654133
+9-2056049348
 13-1310406943
-MainWindow.xaml;
+Admin.xaml;Autorizacia.xaml;MainWindow.xaml;User.xaml;
 
 False
 
