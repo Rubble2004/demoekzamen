@@ -15,19 +15,18 @@
             
         </Grid.RowDefinitions>
         <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
-            <TextBlock VerticalAlignment="Center" FontSize="20">
-                Авторитизация 
-            </TextBlock>
-            <TextBlock VerticalAlignment="Center">
-                Login
-            </TextBlock>
-            <TextBox Name="Login" Width="100"></TextBox>
-            <TextBlock VerticalAlignment="Center">
-                Password
-            </TextBlock>
-            <TextBox Name="Password" Width="100">
-            </TextBox>
-            <Button Click="Enter" Width="100">Войти</Button>
+            <TextBlock VerticalAlignment="Center" FontSize="20">Авторизация</TextBlock>
+
+            <TextBlock VerticalAlignment="Center">Логин</TextBlock>
+            <TextBox Name="login" Width="100"></TextBox>
+
+            <TextBlock VerticalAlignment="Center">Пароль</TextBlock>
+            <PasswordBox Name="passwordBox" Width="100" PasswordChar="•" />
+            <TextBox Name="password" Width="100" Visibility="Collapsed" />
+            <CheckBox Name="Check_Pass" Content="Показать пароль" VerticalAlignment="Center" Checked="Checked" Unchecked="Unchecked" />
+
+
+            <Button Click="Vxod">Войти</Button>
         </StackPanel>
     </Grid>
 </Page>

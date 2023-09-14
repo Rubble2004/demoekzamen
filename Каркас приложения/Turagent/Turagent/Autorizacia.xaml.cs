@@ -26,16 +26,30 @@ namespace Turagent
             InitializeComponent();
         }
 
-        private void Enter(object sender, RoutedEventArgs e)
+        private void Vxod(object sender, RoutedEventArgs e)
         {
-            if (Login.Text == "root" && Password.Text == "12345")
+            if (login.Text == "root" && password.Text == "12345")
             {
                 Manager.MainFrame.Navigate(new Admin());
             }
-            if (Login.Text == "user" && Password.Text == "12345")
+            if (login.Text == "user" && password.Text == "12345")
             {
                 Manager.MainFrame.Navigate(new User());
             }
         }
+
+        private void Checked(object sender, RoutedEventArgs e)
+        {
+            passwordBox.Visibility = Visibility.Collapsed;
+            password.Visibility = Visibility.Visible;
+            password.Text = passwordBox.Password;
+        }
+
+        private void Unchecked(object sender, RoutedEventArgs e)
+        {
+            passwordBox.Visibility = Visibility.Visible;
+            password.Visibility = Visibility.Collapsed;
+        }
+
     }
 }
