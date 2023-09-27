@@ -1,3 +1,8 @@
+Гугл диск с видео https://drive.google.com/drive/folders/1noBiY_4Q2o1d7KA3NUXRF43zuRpYyqPk
+
+
+
+
 
 https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/edit
 
