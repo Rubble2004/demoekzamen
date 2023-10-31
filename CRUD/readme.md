@@ -43,3 +43,13 @@
 Структура столбца: Заголовок(предпочтительно на русском), Указание на столбец таблицу(Binding="{Binding id}), Ширина(Width = auto)
 Вывод данных: Название DataGrid, Элементы(ItemsSourse), Название папки, навзание БД, функция для получения контекста, таблица, список(GDadminik.ItemsSource = Models.RulikEntities.GetContext().users.ToList();
         })
+
+
+
+
+# CRUD
+create - создание 
+update - редактирование    
+delete - удаление
+
+
